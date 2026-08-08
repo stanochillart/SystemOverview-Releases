@@ -4,7 +4,7 @@
 
 Tvoj telefón neustále niečo robí.
 
-Pamäť pracuje. Procesor počíta. Batéria sa vybíja. Úložisko sa plní. Aplikácie sa spúšťajú a sieť prenáša dáta.
+Pamäť pracuje. Procesor počíta. Batéria sa vybíja. Úložsko sa plní. Aplikácie sa spúšťajú a sieť prenáša dáta.
 
 Väčšinu času to nevidíš.
 
@@ -24,7 +24,7 @@ Je to **prehľadové observatórium systému**.
 
 ### SystemOverview 1.2.0
 
-**[⬇️ STIAHNUŤ APK](release/v1.2.0/SystemOverview-1.2.0-release-signed.apk)**
+**[⬇️ STIAHNUŤ APK](https://github.com/stanochillart/SystemOverview-Releases/releases/download/v1.2.0/SystemOverview-1.2.0-release-signed.apk)**
 
 Android 8.0+ · približne 3,1 MB · bez účtu · bez reklám
 
@@ -217,7 +217,7 @@ Rozhodnutie, čo s ním urobíš, zostáva na tebe.
 
 Pre človeka, ktorý chce vedieť:
 
-**„Čo vlastne môj telefón teraz robí?“**
+**„Čo vlastne môj telefón teraz robí?"**
 
 Pre používateľa, ktorý chce zistiť, kam mizne miesto v úložisku.
 
