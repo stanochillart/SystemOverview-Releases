@@ -24,7 +24,7 @@ Je to **prehľadové observatórium systému**.
 
 ### SystemOverview 1.2.0
 
-**[⬇️ STIAHNUŤ APK](https://github.com/stanochillart/SystemOverview-Releases/releases/download/v1.2.0/SystemOverview-1.2.0-release-signed.apk)**
+**[⬇️ STIAHNUŤ APK](https://github.com/stanochillart/SystemOverview-Releases/raw/refs/heads/main/releases/SystemOverview-1.2.0-release-signed.apk)**
 
 Android 8.0+ · približne 3,1 MB · bez účtu · bez reklám
 
